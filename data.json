@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Hollow Knight",
+    "genero": "Metroidvania",
+    "plataforma": "PC",
+    "lancamento": 2017,
+    "desenvolvedor": "Team Cherry"
+  },
+  {
+    "id": 2,
+    "nome": "Celeste",
+    "genero": "Plataforma",
+    "plataforma": "PC, Switch",
+    "lancamento": 2018,
+    "desenvolvedor": "Matt Makes Games"
+  },
+
+  {
+    "id": 3,
+    "nome": "Minecraft",
+    "genero": "Sobrevivência",
+    "plataforma": "PC, Mobile, Console",
+    "lancamento": 2009,
+    "desenvolvedor": "Notch"
+  }
+]
