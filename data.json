@@ -23,5 +23,14 @@
     "plataforma": "PC, Mobile, Console",
     "lancamento": 2009,
     "desenvolvedor": "Notch"
+  },
+
+  {
+    "id": 4,
+    "nome": "Cuphead",
+    "genero": "Plataforma",
+    "plataforma": "PC, Switch, Console",
+    "lancamento": 2017,
+    "desenvolvedor": "Studio MDHR"
   }
 ]

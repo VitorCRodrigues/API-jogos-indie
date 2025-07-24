@@ -1,15 +1,24 @@
 {
-  "name": "node-js",
+  "name": "js",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "API jogos indie",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorCRodrigues/API-jogos-indie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VitorCRodrigues/API-jogos-indie/issues"
+  },
+  "homepage": "https://github.com/VitorCRodrigues/API-jogos-indie#readme"
 }
