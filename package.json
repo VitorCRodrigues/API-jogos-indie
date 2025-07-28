@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VitorCRodrigues/API-jogos-indie/issues"
   },
-  "homepage": "https://github.com/VitorCRodrigues/API-jogos-indie#readme"
+  "homepage": "https://github.com/VitorCRodrigues/API-jogos-indie#readme",
+  "devDependencies": {
+    "prisma": "^6.12.0"
+  }
 }
